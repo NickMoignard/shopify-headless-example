@@ -1,0 +1,10 @@
+{
+  "name": "shopify-headless-example",
+  "version": "1.0.0",
+  "description": "example ecommerce application using mst-gql, shopify hydrogen & strapi",
+  "main": "index.js",
+  "repository": "https://github.com/NickMoignard/shopify-headless-example.git",
+  "author": "Nicholas Moignard <nicklmoignard@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
